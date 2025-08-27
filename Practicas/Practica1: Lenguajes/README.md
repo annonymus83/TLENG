@@ -16,10 +16,10 @@ Dado $\Sigma = \{ a, b \}$ vale:
 
 * $\lambda \in \Sigma$, No vale. Es una palbra nula y por lo tanto no tiene simbolos.
 * $\lambda \in \Sigma$ No vale, porque no pertence a $\Sigma$
-* $\lambda \in \Sigma^+ $ No, dado que la unión empieza desde $\Sigma^1$
-* $\lambda \in \Sigma^* $ Si vale.
-* $\Sigma^0 = \lambda $   No, es igual a un conjunto con $\lambda$ no a un elemento.
-* $\Sigma^0 = \{\lambda\} $ Vale, por lo dicho arriba.
+* $\lambda \in \Sigma^+$ No, dado que la unión empieza desde $\Sigma^1$
+* $\lambda \in \Sigma^*$ Si vale.
+* $\Sigma^0 = \lambda$   No, es igual a un conjunto con $\lambda$ no a un elemento.
+* $` \Sigma^0 = \{\lambda\} `$ Vale, por lo dicho arriba.
 
 ### Ejercicio 3
 $\alpha = aab $ una cadena
